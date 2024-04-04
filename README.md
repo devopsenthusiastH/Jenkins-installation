@@ -7,7 +7,7 @@ This shell script automates the installation process of Jenkins on Ubuntu system
 1. Download the `jenkins.sh` script or copy its content:
 
     ```bash
-    wget https://github.com/devopsenthusiastH/Jenkins-installation/blob/main/jenkins.sh
+    wget https://raw.githubusercontent.com/devopsenthusiastH/Jenkins-installation/main/jenkins.sh
     ```
 
 2. Make the script executable:
